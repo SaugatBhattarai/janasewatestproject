@@ -1,0 +1,9 @@
+git help ---- shows git commands 
+git init ---- initialize git 
+git status ---- shows status of changes in folders
+git add . ---- to add untrack files to some staging 
+git commit -m "commit mesage" ---- commit message 
+git push origin branch ---- push to remote repository
+
+Create branch 
+git checkout -b dev_simran
